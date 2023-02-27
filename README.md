@@ -17,3 +17,5 @@ https://niasasso.github.io/sacode-coding-dasar-i-2023-day09/index2.html
 ### Screenshot hasil belajar
 
 Berikut ini adalah screenshot hasil belajar kali ini :
+<img src="./images/screenshot/src1.png">
+<img src="./images/screenshot/src2.png">
